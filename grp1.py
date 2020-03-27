@@ -38,4 +38,3 @@ print(df)
 # print(df.head(5))
 print("hello")
 print("Nice")
->>>>>>> 852f9e3a877aaffaf8c1b52186e3ee9a4e44433b
